@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+mcp
+ollama
+python-dotenv

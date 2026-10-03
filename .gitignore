@@ -1,0 +1,9 @@
+# Secrets - never commit real credentials
+.env
+
+# Python virtual environment and bytecode cache
+.venv/
+__pycache__/
+
+# Frontend dependencies
+node_modules/
